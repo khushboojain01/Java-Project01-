@@ -1,4 +1,4 @@
-# Java Project 01 - Scientific Calculator
+# Java GUI - Scientific Calculator With Currency Conversion
 
 ## Overview
 This project is a **GUI-based Scientific Calculator** designed to offer multiple modes of operation:
@@ -70,7 +70,7 @@ The project is built using **Java Swing** for the graphical user interface, prov
 ---
 
 ## Screenshots
-![Screenshot of the Calculator](Frame1.png)
+![Screenshot of the application](./Frame1.png)
 
 
 ---
