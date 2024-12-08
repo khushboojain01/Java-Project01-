@@ -70,7 +70,7 @@ The project is built using **Java Swing** for the graphical user interface, prov
 ---
 
 ## Screenshots
-![Screenshot of the application](./Frame1.png)
+![Screenshot of the application](./Frame%201.png)
 
 
 ---
